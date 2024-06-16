@@ -1,0 +1,5 @@
+package connections
+
+func ConnectToDB(){
+	
+}
